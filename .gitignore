@@ -2,4 +2,4 @@
 .classpath
 **/**.class
 /.metadata/
-**/**.settings
+/.settings/
